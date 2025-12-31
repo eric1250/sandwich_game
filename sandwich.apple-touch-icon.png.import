@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2mxh7xe1ubca"
-path="res://.godot/imported/sandwich.apple-touch-icon.png-1d626798e9f86fde59a4676d93864ded.ctex"
+path="res://.godot/imported/sandwich.apple-touch-icon.png-3ca0134f96f63eb638ceeddb7511cda1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sandwich_game/sandwich.apple-touch-icon.png"
-dest_files=["res://.godot/imported/sandwich.apple-touch-icon.png-1d626798e9f86fde59a4676d93864ded.ctex"]
+source_file="res://web/sandwich.apple-touch-icon.png"
+dest_files=["res://.godot/imported/sandwich.apple-touch-icon.png-3ca0134f96f63eb638ceeddb7511cda1.ctex"]
 
 [params]
 
